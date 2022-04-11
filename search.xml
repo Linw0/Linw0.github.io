@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/2022/04/11/U%E6%A0%A1%E5%9B%AD/"/>
+      <url>/2022/04/11/U%E6%A0%A1%E5%9B%AD/</url>
+      
+        <content type="html"><![CDATA[<p>累了，有空再写</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test3</title>
+      <link href="/2022/04/11/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2022/04/11/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<p>秒过青年大学习:<br>1.下载tbs内核（图片二维码）<br>2.不用安装，将文件移动到&#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs（同&#x2F; data&#x2F;media&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs,一定记住files&#x2F;tbs不是tbs）<br>3.微信打开tbs调试界面，选择安装本地内核，文件放对了位置就能装<br>{url:https%3A&#x2F;&#x2F;<a href="http://www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%7D">www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:网页链接}</a><br>4.点击debugx5-信息，选择打开vConsole调试功能，提示重启生效<br>5.跳过代码（进视频后输入):<br>let p&#x3D;document.getElementsByTagName(“video”)[0];<br>p.currentTime&#x3D;p.duration-3;<br>__vconsole.style.display&#x3D;”none”;<br>6.隐藏调试按钮代码（截屏需要）:<br>__vconsole.style.display&#x3D;”none”;<br>提示:本方法仅为完成任务，本人不承担一切风险（本来就是形式主义，就算不做也没人能把你怎么样）<br>未完待续</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>乐健体育刷里程</title>
+      <link href="/2022/04/11/%E4%B9%90%E5%81%A5%E4%BD%93%E8%82%B2/"/>
+      <url>/2022/04/11/%E4%B9%90%E5%81%A5%E4%BD%93%E8%82%B2/</url>
+      
+        <content type="html"><![CDATA[<p>持续更新中</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>超星学习通自动网课答题油猴脚本</title>
+      <link href="/2022/04/11/%E5%AD%A6%E4%B9%A0%E9%80%9A/"/>
+      <url>/2022/04/11/%E5%AD%A6%E4%B9%A0%E9%80%9A/</url>
+      
+        <content type="html"><![CDATA[<p>学习 · 刚刚 0阅读 · 0点赞   Linw818<br>本文是学习通自动化挂网课教程准备阶段：windows运行环境</p><p>edge浏览器（经测试，谷歌chrome，火狐浏览器同样可以）</p><p>Tampermonkey扩展插件（在后文指引中）<br>学习通脚本（<a href="https://greasyfork.org/zh-CN/scripts/426360-%E8%B6%85%E6%98%9F%E5%AD%A6%E4%B9%A0%E9%80%9A%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B-%E8%A7%86%E9%A2%91%E6%8C%82%E6%9C%BA%E8%80%83%E8%AF%95%E7%AD%94%E9%A2%98-%E5%85%A8%E7%BD%91%E8%81%9A%E5%90%88%E9%A2%98%E5%BA%93%E6%AF%8F%E6%97%A5%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E9%80%82%E7%94%A8%E4%BA%8E%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E4%B8%93%E4%B8%9A%E7%A7%91%E7%9B%AE-%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E6%B0%B8%E4%B9%85%E4%BD%BF%E7%94%A8-%E7%BD%91%E8%AF%BE%E9%80%9A%E7%94%A8%E7%89%88%EF%BC%89%E5%BC%80%E5%A7%8B%E6%89%93%E5%BC%80%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%8C%E7%82%B9%E5%87%BB%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%89%A9%E5%B1%95%E6%8C%89%E9%92%AE%EF%BC%8C%E6%89%93%E5%BC%80microsoft">https://greasyfork.org/zh-CN/scripts/426360-%E8%B6%85%E6%98%9F%E5%AD%A6%E4%B9%A0%E9%80%9A%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B-%E8%A7%86%E9%A2%91%E6%8C%82%E6%9C%BA%E8%80%83%E8%AF%95%E7%AD%94%E9%A2%98-%E5%85%A8%E7%BD%91%E8%81%9A%E5%90%88%E9%A2%98%E5%BA%93%E6%AF%8F%E6%97%A5%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E9%80%82%E7%94%A8%E4%BA%8E%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E4%B8%93%E4%B8%9A%E7%A7%91%E7%9B%AE-%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E6%B0%B8%E4%B9%85%E4%BD%BF%E7%94%A8-%E7%BD%91%E8%AF%BE%E9%80%9A%E7%94%A8%E7%89%88）开始打开浏览器，点击右上角扩展按钮，打开microsoft</a> edge加载项</p><p>搜索Tampermonkey选择绿色版本（红色为测试版）获取打开上文中我分享的学习通脚本链接并安装<br>登录学习通打开学习界面，运行成功。注意事项<br>脚本版权归作者Muketool所有</p><p>使用脚本有封号风险，自愿使用，一切后果自行承担，不建议使用倍速和脚本考试</p><p>搜题功能由火星搜题提供，部分题目无法搜索会跳过该题继续运行，可手动调整</p><p>如有侵权请联系我删除或修改 如有问题请在评论区或私信留言 本文为我原创 本文禁止转载或摘编<br>（未完待续）</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>有必要说</title>
+      <link href="/2022/04/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
+      <url>/2022/04/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>这是一个基于github和hexo搭建的博客，尝试过宝塔面板，wordpress,还想过购买服务器，奈何国内的太贵了还需要备案，国外的又不能为他人提供稳定的访问条件，所以选了这种比较折腾的搭建方式，使用过next,butterfly,最终留在了watery，但是建好后又不知道写什么，也有过弃坑无限期停更的打算，但是想了想还是把它作为一个记录网站，分享一些实用的东西。</p><p>本站还在测试阶段，很多方面待改进，如有问题请及时反馈。<br>请不要在与我相关的平台发布涉及个人隐私的信息。<br>网络不是法外之地，严禁发表一切违反国家法律的言论。<br>发布内容带有主观性，如有不同意见请友好交流。<br>部分内容来源于网络，如有侵权请联系我删除。<br><img src="/imames/dog.jpg" alt="图"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 个人博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
