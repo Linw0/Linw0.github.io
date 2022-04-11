@@ -12,6 +12,12 @@
       
       
       
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -24,6 +30,12 @@
         <content type="html"><![CDATA[<p>秒过青年大学习:<br>1.下载tbs内核（图片二维码）<br>2.不用安装，将文件移动到&#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs（同&#x2F; data&#x2F;media&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs,一定记住files&#x2F;tbs不是tbs）<br>3.微信打开tbs调试界面，选择安装本地内核，文件放对了位置就能装<br>{url:https%3A&#x2F;&#x2F;<a href="http://www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%7D">www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:网页链接}</a><br>4.点击debugx5-信息，选择打开vConsole调试功能，提示重启生效<br>5.跳过代码（进视频后输入):<br>let p&#x3D;document.getElementsByTagName(“video”)[0];<br>p.currentTime&#x3D;p.duration-3;<br>__vconsole.style.display&#x3D;”none”;<br>6.隐藏调试按钮代码（截屏需要）:<br>__vconsole.style.display&#x3D;”none”;<br>提示:本方法仅为完成任务，本人不承担一切风险（本来就是形式主义，就算不做也没人能把你怎么样）<br>未完待续</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -38,6 +50,12 @@
       
       
       
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -51,14 +69,20 @@
       
       
       
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
     </entry>
     
     
     
     <entry>
-      <title>有必要说</title>
-      <link href="/2022/04/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/"/>
-      <url>/2022/04/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/</url>
+      <title>前言</title>
+      <link href="/2022/04/11/%E5%89%8D%E8%A8%80/"/>
+      <url>/2022/04/11/%E5%89%8D%E8%A8%80/</url>
       
         <content type="html"><![CDATA[<p>这是一个基于github和hexo搭建的博客，尝试过宝塔面板，wordpress,还想过购买服务器，奈何国内的太贵了还需要备案，国外的又不能为他人提供稳定的访问条件，所以选了这种比较折腾的搭建方式，使用过next,butterfly,最终留在了watery，但是建好后又不知道写什么，也有过弃坑无限期停更的打算，但是想了想还是把它作为一个记录网站，分享一些实用的东西。</p><p>本站还在测试阶段，很多方面待改进，如有问题请及时反馈。<br>请不要在与我相关的平台发布涉及个人隐私的信息。<br>网络不是法外之地，严禁发表一切违反国家法律的言论。<br>发布内容带有主观性，如有不同意见请友好交流。<br>部分内容来源于网络，如有侵权请联系我删除。<br><img src="/imames/dog.jpg" alt="图"></p>]]></content>
       
