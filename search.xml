@@ -27,7 +27,7 @@
       <link href="/2022/04/11/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/"/>
       <url>/2022/04/11/%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<p>1.下载tbs内核（图片二维码）<br>2.不用安装，将文件移动到&#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs（同&#x2F; data&#x2F;media&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs,一定记住files&#x2F;tbs不是tbs）<br>3.微信打开tbs调试界面，选择安装本地内核，文件放对了位置就能装<br>{url:https%3A&#x2F;&#x2F;<a href="http://www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%7D">www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:网页链接}</a><br>4.点击debugx5-信息，选择打开vConsole调试功能，提示重启生效<br>5.跳过代码（进视频后输入):<br>let p&#x3D;document.getElementsByTagName(“video”)[0];<br>p.currentTime&#x3D;p.duration-3;<br>__vconsole.style.display&#x3D;”none”;<br>6.隐藏调试按钮代码（截屏需要）:<br>__vconsole.style.display&#x3D;”none”;<br>提示:本方法仅为完成任务，本人不承担一切风险（本来就是形式主义，就算不做也没人能把你怎么样）<br>未完待续</p>]]></content>
+        <content type="html"><![CDATA[<p>1.下载tbs内核<br><a href="https://xylinw.lanzoul.com/iGER102c83lc?w1">https://xylinw.lanzoul.com/iGER102c83lc?w1</a><br>2.不用安装，将文件移动到&#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs（同&#x2F; data&#x2F;media&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.tencent.mm&#x2F;files&#x2F;tbs,一定记住files&#x2F;tbs不是tbs）<br>3.微信打开tbs调试界面，选择安装本地内核，文件放对了位置就能装<br>{url:https%3A&#x2F;&#x2F;<a href="http://www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%7D">www.urlshare.cn/umirror_url_check?_wv=1&amp;srctype=touch&amp;apptype=android&amp;loginuin=577531445&amp;plateform=mobileqq&amp;url=http%253A%252F%252Fdebugtbs.qq.com%252F&amp;src_uin=577531445&amp;src_scene=311&amp;cli_scene=getDetail,text:网页链接}</a><br><img src="/%5Cimames%5C%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220412130725.jpg"><br><img src="/%5Cimames%5C%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220412130809.jpg"><br>4.点击debugx5-信息，选择打开vConsole调试功能，提示重启生效<br>5.跳过代码（进视频后输入):<br>let p&#x3D;document.getElementsByTagName(“video”)[0];<br>p.currentTime&#x3D;p.duration-3;<br>__vconsole.style.display&#x3D;”none”;<br>6.隐藏调试按钮代码（截屏需要）:<br>__vconsole.style.display&#x3D;”none”;<br>提示:本方法仅为完成任务，本人不承担一切风险（本来就是形式主义，就算不做也没人能把你怎么样）</p>]]></content>
       
       
       
@@ -46,7 +46,7 @@
       <link href="/2022/04/11/%E4%B9%90%E5%81%A5%E4%BD%93%E8%82%B2/"/>
       <url>/2022/04/11/%E4%B9%90%E5%81%A5%E4%BD%93%E8%82%B2/</url>
       
-        <content type="html"><![CDATA[<p>持续更新中</p>]]></content>
+        <content type="html"><![CDATA[<p>原作者链接<br><a href="https://github.com/Foreverddb/FuckLegym/releases">https://github.com/Foreverddb/FuckLegym/releases</a></p><p>使用注意事项：<br>1.登录乐健体育账号密码。<br>2.跑步上传范围上限和下限不能相同。<br>3.一定要选择与学校规定对应的地图和类型，也可自己上传或绘制地图。<br>4.由于维护软件和服务器需要时间和费用，所以最新版已是付费服务，也可选择旧版。<br>5.别刷的太离谱了，玩不明白就别玩。<br>6.关于账号安全，不要问我会不会被查，会不会封号，问就是会，使用后果自行承担。</p>]]></content>
       
       
       
